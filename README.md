@@ -62,8 +62,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![](https://github-profile-trophy.vercel.app/?username=Akash09082001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
+---
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Akash09082001&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
