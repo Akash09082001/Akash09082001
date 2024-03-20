@@ -66,5 +66,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash09082001&layout=compact&theme=vision-friendly-dark)](https://github.com/Akash09082001/github-readme-stats)
 
 
+![Snake animation](https://github.com/Akash09082001/Akash09082001/blob/output/github-contribution-grid-snake.svg)
 
 
