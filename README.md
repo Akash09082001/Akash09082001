@@ -80,10 +80,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### 😂 Random Dev Meme
-![Dev Meme](https://prog-meme-api.vercel.app/)
-
----
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
